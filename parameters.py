@@ -37,19 +37,11 @@ param_spaces = {
     }
 }
 
+
 optimizer_configs = {
-    "SARIMA": {'initial_random': 1, 'num_iteration': 1},
-    "ARIMA": {'initial_random': 1, 'num_iteration': 1},
-    "XGBRegressor": {'initial_random': 1, 'num_iteration': 1},
-    "RandomForestRegressor": {'initial_random': 1, 'num_iteration': 1},
-    "LSTM": {'initial_random': 1, 'num_iteration': 1}
+    "SARIMA": {'initial_random': 10, 'num_iteration': 15},
+    "ARIMA": {'initial_random': 10, 'num_iteration': 15},
+    "XGBRegressor": {'initial_random': 10, 'num_iteration': 10},
+    "RandomForestRegressor": {'initial_random': 10, 'num_iteration': 10},
+    "LSTM": {'initial_random': 5, 'num_iteration': 10}
 }
-
-
-# optimizer_configs = {
-#     "SARIMA": {'initial_random': 10, 'num_iteration': 15},
-#     "ARIMA": {'initial_random': 10, 'num_iteration': 15},
-#     "XGBRegressor": {'initial_random': 10, 'num_iteration': 10},
-#     "RandomForestRegressor": {'initial_random': 10, 'num_iteration': 10},
-#     "LSTM": {'initial_random': 5, 'num_iteration': 10}
-# }
