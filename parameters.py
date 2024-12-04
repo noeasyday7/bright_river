@@ -28,7 +28,7 @@ param_spaces = {
         'learning_rate': [0.01, 0.1, 0.2]
     },
     "RandomForestRegressor": {
-        'n_estimators': range(50, 150),
+        'n_estimators': [50, 100, 150, 350],
         'max_depth': range(3, 10)
     },
     "LSTM": {
