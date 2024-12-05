@@ -1,0 +1,7 @@
+,time_started,type of run,time_ended,time_elapsed
+0,11:47:55,forecasting w clustering,,
+1,,forecasting w clustering,12:30:39,2564.037498474121
+0,12:32:55,forecasting w reused optimal model,,
+1,,forecasting w reused optimal model,12:35:08,132.9561047554016
+0,12:54:32,finding clusteroid optimized model,,
+1,,finding clusteroid optimized model,12:58:44,252.68198680877686
