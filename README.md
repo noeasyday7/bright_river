@@ -15,12 +15,9 @@ This repository is created for 02807 Computational Tools for Data Science.
 
 **Additional Files:**
 
-- `WIP notebooks`: Contains temporary and unused Jupyter notebooks.
-
+- `WIP notebooks`: Contains temporary Jupyter notebooks.
 - `freq itemsets`: Contains Jupyter notebook used to create frequent itemsets and results.
-
 - `BasicSales.html`: The exploratory data analysis report for products data.
-
 - `parameters.py`: A Python script defining parameters used in model selection per cluster stage.
 
 ## Why no dataset
@@ -29,5 +26,25 @@ The dataset utilized in this project is derived from Samsøe Samsøe, a Danish f
 
 ## How to run
 
-xxx
+Make sure the following Python libraries have been installed:
+
+```python
+pandas
+numpy
+matplotlib
+seaborn
+ydata_profiling
+sklearn
+kneed
+yellowbrick
+tabulate
+tsfeatures
+scipy
+mango
+statsmodels
+xgboost
+tensorflow
+```
+
+Run through all Jupyter notebooks from `I. Data pre-processing.ipynb` to `VI. Performance versus Naive Forecast.ipynb`
 
