@@ -44,6 +44,8 @@ mango
 statsmodels
 xgboost
 tensorflow
+itertools
+mlxtend
 ```
 
 Run through all Jupyter notebooks from `I. Data pre-processing.ipynb` to `VI. Performance versus Naive Forecast.ipynb`
