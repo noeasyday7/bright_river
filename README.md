@@ -22,7 +22,7 @@ This repository is created for 02807 Computational Tools for Data Science.
 
 ## Why no dataset
 
-The dataset utilized in this project is derived from Samsøe Samsøe, a Danish fashion brand. The dataset is considered confidential. Access to this dataset is strictly restricted to individuals who have signed a Non-Disclosure Agreement (NDA). This measure ensures the protection of sensitive business information and adheres to privacy and security standards. If you require access to the dataset for review, please contact us and complete the NDA process. Unauthorized access or distribution of the dataset is prohibited.
+The dataset utilized in this project is derived from Samsøe Samsøe, a Danish fashion brand. The dataset is considered confidential. Access to this dataset is strictly restricted to individuals who have signed a Non-Disclosure Agreement (NDA). This measure ensures the protection of sensitive business information and adheres to privacy and security standards. If you require access to the dataset for review, please contact Maxime Roux (roux@samsoe.com) and complete the NDA process. Unauthorized access or distribution of the dataset is prohibited.
 
 ## How to run
 
